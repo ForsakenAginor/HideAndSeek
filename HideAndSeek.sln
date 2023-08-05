@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideAndSeek", "HideAndSeek\HideAndSeek.csproj", "{B2CD6F9B-CA73-4394-8B67-3013E38D94FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideAndSeekTests", "LocationTests\HideAndSeekTests.csproj", "{74524E27-FB68-413E-AC60-03A877DC45BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2CD6F9B-CA73-4394-8B67-3013E38D94FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CD6F9B-CA73-4394-8B67-3013E38D94FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CD6F9B-CA73-4394-8B67-3013E38D94FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CD6F9B-CA73-4394-8B67-3013E38D94FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74524E27-FB68-413E-AC60-03A877DC45BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74524E27-FB68-413E-AC60-03A877DC45BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74524E27-FB68-413E-AC60-03A877DC45BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74524E27-FB68-413E-AC60-03A877DC45BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E8B1DD-43BC-4302-937C-50DEBACD5684}
+	EndGlobalSection
+EndGlobal
